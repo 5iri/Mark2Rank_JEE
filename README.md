@@ -1,9 +1,9 @@
 
 ---
 
-# JEE-ADV_MarkVRank
+# Mark2Rank JEE
 
-**JEE-ADV_MarkVRank** is a simple tool designed to predict the rank of students based solely on their marks in the JEE Advanced examination. It provides a straightforward method to estimate your rank without leveraging historical data or machine learning models, relying purely on user input and a predefined mark-to-rank mapping.
+**Mark2Rank JEE** is a simple tool designed to predict the rank of students based solely on their marks in the JEE Advanced examination. It provides a straightforward method to estimate your rank without leveraging historical data or machine learning models, relying purely on user input and a predefined mark-to-rank mapping.
 
 ## Features
 
@@ -24,13 +24,13 @@ Follow these instructions to run the project locally.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/LOuLOu-THEKing/JEE-ADV_MarkVRank.git
+git clone https://github.com/5iri/Mark2Rank_JEE
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd JEE-ADV_MarkVRank
+cd Mark2Rank_JEE
 ```
 
 3. To run the program, you would need jupyter notebook.
